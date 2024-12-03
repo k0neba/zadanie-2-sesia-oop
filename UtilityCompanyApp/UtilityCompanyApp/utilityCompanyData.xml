@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UtilityCompanyApp.UtilityCompany>
+	<Tariffs>
+		<Tariff>
+			<ServiceName>Вода</ServiceName>
+			<Rate>12.5</Rate>
+		</Tariff>
+		<Tariff>
+			<ServiceName>Електрика</ServiceName>
+			<Rate>4.8</Rate>
+		</Tariff>
+	</Tariffs>
+	<Residents>
+		<Resident>
+			<Name>Іван</Name>
+		</Resident>
+		<Resident>
+			<Name>Марія</Name>
+		</Resident>
+	</Residents>
+</UtilityCompanyApp.UtilityCompany>

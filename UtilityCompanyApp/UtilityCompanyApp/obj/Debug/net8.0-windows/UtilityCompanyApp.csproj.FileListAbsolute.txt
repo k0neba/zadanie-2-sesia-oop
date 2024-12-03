@@ -1,0 +1,16 @@
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\bin\Debug\net8.0-windows\UtilityCompanyApp.exe
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\bin\Debug\net8.0-windows\UtilityCompanyApp.deps.json
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\bin\Debug\net8.0-windows\UtilityCompanyApp.runtimeconfig.json
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\bin\Debug\net8.0-windows\UtilityCompanyApp.dll
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\bin\Debug\net8.0-windows\UtilityCompanyApp.pdb
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.Form1.resources
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.csproj.GenerateResource.cache
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.AssemblyInfoInputs.cache
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.AssemblyInfo.cs
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.csproj.CoreCompileInputs.cache
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.dll
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\refint\UtilityCompanyApp.dll
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.pdb
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\UtilityCompanyApp.genruntimeconfig.cache
+C:\Users\pot4t\source\repos\UtilityCompanyApp\UtilityCompanyApp\obj\Debug\net8.0-windows\ref\UtilityCompanyApp.dll

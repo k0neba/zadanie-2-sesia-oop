@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UtilityCompany>
+  <Tariffs>
+    <Tariff ServiceName="Вода" Rate="2" />
+    <Tariff ServiceName="Газ" Rate="10" />
+  </Tariffs>
+  <Residents>
+    <Resident Name="Катя" />
+    <Resident Name="Женя" />
+  </Residents>
+</UtilityCompany>
